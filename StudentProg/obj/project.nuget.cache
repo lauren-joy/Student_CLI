@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZKAZsOLuyJ6iVvSmKD6NU+oZe/IKS2DDNgg481aZiba4vxDBpChXKrlauHJJ8WUwo63JdyVL7cJgTZqzoYmaBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\laure\\Downloads\\CLITeam\\CLITeam\\StudentProg\\StudentProg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laure\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
+    "C:\\Users\\laure\\.nuget\\packages\\mathnet.numerics\\4.15.0\\mathnet.numerics.4.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}
