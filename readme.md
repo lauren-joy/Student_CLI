@@ -1,30 +1,4 @@
 # Student Application
-## Initial code base
-### Breanna
-* Filter function in progress
-* Selection Complete
-* delete Complete
-* Add in progress
-* Creation complete
-* view complete
-
-### Luke 
-* List Function Complete - just add header
-* select not implemented due to different structure
-* delete is complete
-* need to reimplement add
-* create list complete
-* modify modal is buggy
-* no filter function
-
-### Lauren
-* for some reason was non-functional during meeting 
-    * revert on github to functional and review
-
-### Code Base
-* Breanna program is main base
-* Luke's List function
-* Convert Breanna's master student list to a dictionary
 
 ## Current Features
 * Create a new list of students
